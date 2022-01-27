@@ -1,0 +1,19 @@
+{
+  "name": "map-service-reviews",
+  "version": "0.0.1",
+  "description": "sex api for sex stolen off my review project lol",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^3.14.1",
+    "mongoose": "^5.13.4",
+    "ngrok": "^4.1.0",
+    "fastify-cors": "^6.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+
+}

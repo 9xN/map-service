@@ -43,5 +43,12 @@ BOTH
 		https://developers.google.com/maps/documentation/distance-matrix/overview
 	Googles roads api:
 		https://developers.google.com/maps/documentation/roads/overview
+
+	Yelp review fetching
+		https://www.yelp.com/developers/documentation/v3/get_started
+
+	Add our own grading/review system
+	
 UNKNOWN
 	we need to implement the google maps direction thing
+
